@@ -12,5 +12,5 @@ Landslides are complex natural disasters influenced by multiple factors. Traditi
 
 
 ## Contact
-For inquiries or collaborations, reach out via [your email] or open an issue on GitHub.
+For inquiries or collaborations, reach out via [onlybusiness.ben@gmail.com] or open an issue on GitHub.
 
