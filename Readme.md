@@ -1,4 +1,4 @@
-#GAIA
+# GAIA
 # Spatio-Temporal Physics-Informed Neural Operator (ST-PINO)
 
 ## Overview
